@@ -1,0 +1,9 @@
+[Interface]
+PrivateKey = SC225vHVYYWLv71k7PnDapMaNloZ0+TvbQSk9dRNff0=
+Address = 192.168.100.130/32
+DNS = 1.1.1.1, 8.8.8.8
+[Peer]
+PublicKey = 8lbrDuU/IQPEsTK+0GdxgAJML4/VevrzuGGr1oZwCxA=
+AllowedIPs = 192.168.2.0/24
+Endpoint = 62.173.138.81:13231
+PersistentKeepalive = 20
